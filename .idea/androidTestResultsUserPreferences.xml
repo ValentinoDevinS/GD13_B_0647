@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidTestResultsUserPreferences">
+    <option name="androidTestResultsTableState">
+      <map>
+        <entry key="1734945818">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.51.102:5555" value="120" />
+                  <entry key="7PW4DQYSOBJ79H8L" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Genymobile&#10; Galaxy S10" value="120" />
+                  <entry key="OPPO&#10; CPH1723" value="120" />
+                  <entry key="Pixel_4_XL_API_30" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
